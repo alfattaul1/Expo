@@ -1,0 +1,50 @@
+*{
+  margin: 0px;
+}
+.banner-container{
+  align-items: center;
+  text-align: right;
+  padding-bottom: 30px;
+  padding-right: 150px;
+  padding-top: 200px;
+  height: 70vh;
+  background-image: url(../new-year-new-me/images/banner/banner2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.para{
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.btn{
+  border-radius: 5px;
+  background-color: #F15B22;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  border: 0px;
+}
+.main{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.image{
+  width: 250px;
+  height: 350px;
+  background-image: url(../new-year-new-me/images/gradient2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 40vh;
+  border-radius: 9999px;
+}
+.my-plans{
+  justify-content: center;
+  text-align: center;
+  padding-top: 90px;
+
+}
