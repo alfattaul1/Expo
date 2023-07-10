@@ -46,5 +46,99 @@
   justify-content: center;
   text-align: center;
   padding-top: 90px;
+  padding-bottom: 90px;
+}
+.box{
+  align-items: center;
+  text-align: center;
+}
+.all-box{
+  display: flex;
+  justify-content: space-around;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+}
+.para3{
+  color: #737272;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 800;
+}
+.gradient{
+width: 1140px;
+height: 200px;
+align-items: center;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 150px;
+}
+.btn2{
+  background-color: white;
+  border-radius: 5px;
+  color: #F15B22;
+  padding: 10px;
+  border: 0px;
+}
+.gradient-pic{
+  text-align: left;
+  align-items: center;
+  padding-left: 150px;
+  padding-top: 150px;
+  background-image: url(../new-year-new-me/images/watch.png), url(../new-year-new-me/images/gradient2.png);
+  height: 25vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-blend-mode: overlay;
+}
+.foot{
+  height: 90vh;
+  background-color: black;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+.future{
+  color: white;
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-bottom: 20px;
+}
+.para4{
+  color: white;
+  padding-left: 100px;
+  padding-bottom: 20px;
+}
+.img-icons{
+  display: flex;
+  gap: 24px;
+  width: 30px;
+  height: 30px;
+  padding-left: 100px;
+}
+.subscribe{
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+.input{
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.btn3{
+  background-color: white;
+  border-radius: 5px;
+  color: #F15B22;
+  margin-top: 10px;
+  padding: 10px;
+  border: 0px;
+}
+.subscribe-part{
+  align-items: center;
+  padding-right: 100px;
+  padding-top: 150px;
 
 }
